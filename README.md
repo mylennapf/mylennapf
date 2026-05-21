@@ -52,3 +52,5 @@ React.js (Hooks, Context API), Next.js (App Router, SSR/SSG), Vue.js, Vuetify, J
 ---
 
 📌 *This README reflects my current journey and ambitions as a Front-end Developer. Constantly evolving!*
+![Snake animation](https://github.com/mylennapf/mylennapf/blob/output/github-contribution-grid-snake.svg)
+
